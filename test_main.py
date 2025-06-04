@@ -3,8 +3,15 @@
 #
 # @Autor....: 
 # @E-mail...: 
-# @Date.....: 02-06-2025 - Mon - 22:25
-# @Version..: 2025-153
+# @Date.....: 04-06-2025 - Wed - 15:38
+# @Version..: 2025-155
 #
 #
+
+def main():
+    print("Hello World!")
+    
+    
+if __name__ == "__main__":
+    main()
 

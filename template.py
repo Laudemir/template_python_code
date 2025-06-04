@@ -38,7 +38,6 @@ data1 = f"""#!/usr/bin/env python3
 file_name = os.path.basename(argv[0])
 
 data2 = """def main():
-    #TODO your code
     print("Hello World!")
     
     
